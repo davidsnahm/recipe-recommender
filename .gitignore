@@ -131,3 +131,4 @@ dmypy.json
 # Ignore data and ds_store
 data/
 .DS_Store
+.ipynb_checkpoints
